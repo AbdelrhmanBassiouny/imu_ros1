@@ -1,0 +1,2 @@
+razor_imu_9dof
+-DCATKIN_DEVEL_PREFIX=/home/abdelrhman/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/abdelrhman/catkin_workspace/install -G Unix Makefiles

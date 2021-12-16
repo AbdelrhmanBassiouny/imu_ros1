@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/abdelrhman/catkin_workspace/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "configurationProvider": "b2.catkin_tools"
+        }
+    ],
+    "version": 4
+}
